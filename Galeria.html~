@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+		<link rel="stylesheet" href="styl.css" />
+		<title></title>
+</head>
+<body>
+<div id="conteiner">
+
+
+	<header>
+				<img src="logo.png" alt="htlm i css">
+				</header>
+			
+				<nav>
+				<a class="menu"  href="glowna.html"> Strona główna </a><a class="menu" href="informacje.html"> Informacje </a><a class="menu" href="Galeria.html"> Galeria </a><a class="menu"  href="Kontakt.html"> Kontakt </a>
+				
+				
+			</nav>
+			
+			<table >
+			<tr>
+			<td><a class="dwa" target="_blank" href="jeden.html"><img src="logo.jpg" alt="Tekst alternatywny" border="0"></a></td>
+			<td><a class="dwa" target="_blank" href="dwa.html"><img src="html.png" alt="Tekst alternatywny" border="0"></a></td>
+			<td><a class="dwa" target="_blank" href="trzy.html"><img src="jeden.jpg" alt="Tekst alternatywny" border="0"></a></td>
+			<td><a class="dwa"  target="_blank" href="cztery.html"><img src="html5.png" alt="Tekst alternatywny" border="0"></a></td>
+			</tr>
+			
+			</table>			
+			
+			
+			</div>
+				</body>
+</html>
+
+
+

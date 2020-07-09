@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pl">
+	<head>
+		<meta charset="utf-8" />
+			<title>praktyka</title>
+			<link rel="stylesheet" href="styl.css" />
+		
+	</head>
+	<body>
+		<div id="conteiner">
+			<nav>
+			<p>główna</p> <br>
+				<a href="informacje.html"> Informacje </a>
+				<a href="Galeria.html"> Galeria </a>
+				<a href="Kontakt.html"> Kontakt </a>
+			</nav>
+				
+				
+		</div>		
+	</body>
+</html>
